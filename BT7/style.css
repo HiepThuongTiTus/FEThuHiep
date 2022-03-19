@@ -1,0 +1,51 @@
+.html-7{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+  }
+  .box-html{
+    text-align: center;
+    padding: 10px;
+  }
+  .color-box{
+    background-color: rgb(231, 227, 227);
+      padding: 10px;
+  }
+  .box1-html
+  {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    opacity: 0.8;
+  }
+  .underline-b1{
+    text-decoration: underline;
+    font-size: 30px;
+ }
+ .tex1{
+    width: 250px;
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+}
+.text-5{
+    width: 30px;
+    background-color: rgb(94, 172, 94);
+    padding: 10px;
+    border-radius: 80%;
+    text-align: center;
+    color: aliceblue;
+}
+.body-text{
+    padding-left: 20px;
+}
+.text-right{
+    color: grey;
+}
+.text-under{
+   font-weight: bold; 
+   opacity: 0.7;
+}

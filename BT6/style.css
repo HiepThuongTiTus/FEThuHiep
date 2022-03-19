@@ -1,0 +1,61 @@
+.html-6{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.box-html
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.underline-contact{
+    background-image: linear-gradient(90deg, rgb(218, 230, 1) 0%, rgb(218, 230, 1) 7%,rgb(226, 203, 7) 7%, rgb(226, 203, 7) 14%,rgb(234, 176, 13) 14%, rgb(234, 176, 13) 21%,rgb(242, 148, 18) 21%, rgb(242, 148, 18) 28%,rgb(250, 121, 24) 28%, rgb(250, 121, 24) 100%);
+    background-size:  100% 15%;
+    background-repeat: repeat-x;
+    background-position: left 0% bottom 10%;
+   background-size: 100% 5%;
+   font-size:25px;
+   width: 161px;
+   padding-bottom: 10px;
+}
+
+p{
+    display: inline;
+    padding: 15px;
+    color: gray;
+}
+.contact{
+    padding: 10px;
+}
+.text-form{
+    border: 1px solid gray;
+    border-radius: 5px;
+    color: gray;
+    padding: 15px 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.text-form1{
+    background-color: #3bc0e9;
+    border: 1px solid rgb(28, 217, 241);
+    border-radius: 2px;
+    color: white;
+    padding: 15px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 50%;
+  }
+.box-html2{
+    display: flex;
+    flex-direction: column;
+}

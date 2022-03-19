@@ -1,0 +1,20 @@
+.html-3{
+    display: flex;
+    flex-direction: row;
+    background-image: url('nen.jpg');
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    opacity: 0.9;
+}
+.html-3 >div{
+    width: 250px;
+    color: rgb(252, 248, 248);
+    text-align: center;
+    line-height: 10px;
+    padding: 15px;
+}
+h4{
+    font-size: 30px;
+}
